@@ -10,7 +10,7 @@ setup(
     description="A Linux Terminal Emulator development Package for various os",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ap1311/",  # Optional: Link to your GitHub repo
+    url="https://github.com/ap1311/pyterminal-emulator",  # Optional: Link to your GitHub repo
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
