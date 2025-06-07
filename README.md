@@ -8,7 +8,7 @@
 </p>
 
 ---
-
+Contributions are always welcomed
 ## 🌟 Description
 
 **pyterminal-emulator** is a powerful simulation of the Linux command-line environment that runs directly on Windows. It is specially designed for:
