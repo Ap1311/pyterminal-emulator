@@ -11,7 +11,7 @@
 
 ## 🌟 Description
 
-**WinLin** is a powerful simulation of the Linux command-line environment that runs directly on Windows. It is specially designed for:
+**pyterminal-emulator** is a powerful simulation of the Linux command-line environment that runs directly on Windows. It is specially designed for:
 
 - **Students** who cannot install Linux due to lack of knowledge, limited storage, or fear of corrupting their system.
 - **Developers** who want to build and test terminal-based tools with real command output.
