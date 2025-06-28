@@ -38,7 +38,7 @@ You can run commands like `cp`, `mv`, `chmod`, `git`, `curl`, `bash`, `python`, 
 Install from PyPI:
 
 ```
-pip install pyterminal
+pip install pyterminal-emulator
 ```
 
 Or install from source:
