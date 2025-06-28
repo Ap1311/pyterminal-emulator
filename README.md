@@ -1,4 +1,4 @@
-<h1 align="center">pyterminal-emulator - Linux Terminal in any OS</h1>
+<h1 align="center"><a href="https://pypi.org/project/pyterminal-emulator/">pyterminal-emulator</a> - Linux Terminal emulator in any OS</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Aarav%20Shah-purple?style=flat-square">
@@ -8,7 +8,7 @@
 </p>
 
 ---
-Contributions are always welcomed
+
 ## 🌟 Description
 
 **pyterminal-emulator** is a powerful simulation of the Linux command-line environment that runs directly on Windows. It is specially designed for:
@@ -38,14 +38,14 @@ You can run commands like `cp`, `mv`, `chmod`, `git`, `curl`, `bash`, `python`, 
 Install from PyPI:
 
 ```
-pip install pyterminal-emulator
+pip install pyterminal
 ```
 
 Or install from source:
 
 ```
 git clone https://github.com/ap1311/pyterminal-emulator
-cd pyterminal-emulator
+cd pyterminal
 python setup.py install
 ```
 
